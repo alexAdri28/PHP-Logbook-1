@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "Logbook 1", "Logbook 1.phpproj", "{C8761245-8EE5-4DE0-99FC-F60D337F7B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8761245-8EE5-4DE0-99FC-F60D337F7B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8761245-8EE5-4DE0-99FC-F60D337F7B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8761245-8EE5-4DE0-99FC-F60D337F7B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8761245-8EE5-4DE0-99FC-F60D337F7B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93366C7D-F53A-4E9A-881C-2DFD4BF8F3E4}
+	EndGlobalSection
+EndGlobal
